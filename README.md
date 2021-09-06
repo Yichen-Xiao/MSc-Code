@@ -1,6 +1,6 @@
 # Sequential Vaccine Allocation Algorithm
 
-This code was written for an MSc dissertation, and more details about the purpose of the code can be found within.
+This code was written for an MSc dissertation, and more details about the purpose of the code can be found therein.
 
 ## File descriptions
 initialise_graph.py - Functions to create and visualise the graphs for the action set of the vaccine allocation algorithm using networkX. 
